@@ -123,9 +123,12 @@ urlpatterns = [
     path('areaoftriangle/',views.triarea,name="areaoftriangle"),]
 ```
 ## OUTPUT:
+![image](https://github.com/Mkumar262006/serversideprocessing/assets/147139472/974669d1-5374-4c96-acc7-b00a8f949b7c)
 
 ### Home Page:
+![image](https://github.com/Mkumar262006/serversideprocessing/assets/147139472/508c50dd-bb12-4344-8ddf-984d567b7b86)
 
 
 ## Result:
+Thus the program has been executed successfully
 
